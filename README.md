@@ -5,7 +5,6 @@
 
 ### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **Java** & **Spring Boot**
 - 💬 Ask me about **Angular**, **JavaScript**, and **Modern Web Development**
 - 👨‍💻 All of my projects are available at [github.com/vinaythakoor004](https://github.com/vinaythakoor004)
 - 📫 How to reach me: **thakoorvinay04@gmail.com**
